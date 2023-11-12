@@ -3,4 +3,4 @@
 - [Learning resources](#global)
 - [Certifications](#certifications)
 - [Misc](#misc)
-
+- [FinTech APIs](#fintech)
