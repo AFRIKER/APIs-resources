@@ -4,3 +4,6 @@
 - [Certifications](#certifications)
 - [Misc](#misc)
 - [FinTech APIs](#fintech)
+- [SMS/USSD APIs](#sms)
+- [AI APIs](#ai)
+- <kbd>more to be added</kbd>
