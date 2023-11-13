@@ -12,7 +12,7 @@
    
 
 - # Certifications
-- 
+ 
  
 - # Fintech APIs
 - [Mpesa Apis](https://developer.safaricom.co.ke/)
@@ -22,10 +22,13 @@
    - [Africastalking Messaging](https://africastalking.com/sms)
  
   - ## USSD
-   -[Africastalking USSD ](https://africastalking.com/ussd)
+   - [Africastalking USSD ](https://africastalking.com/ussd)
+- <kbd>more to be added</kbd>
 
 - # AI APIs
  - ## LLMs
   - [ OpenAI ](https://openai.com/product#made-for-developers)
 
-- #Misc 
+- <kbd>more to be added</kbd>
+
+- # Misc 
