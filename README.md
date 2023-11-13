@@ -9,4 +9,23 @@
 - <kbd>more to be added</kbd>
 
 - # Learning resources
+   
+
+- # Certifications
 - 
+ 
+- # Fintech APIs
+- [Mpesa Apis](https://developer.safaricom.co.ke/)
+
+- # SMS/USSD APIs
+  - ## SMS
+   - [Africastalking Messaging](https://africastalking.com/sms)
+ 
+  - ## USSD
+   -[Africastalking USSD ](https://africastalking.com/ussd)
+
+- # AI APIs
+ - ## LLMs
+  - [ OpenAI ](https://openai.com/product#made-for-developers)
+
+- #Misc 
