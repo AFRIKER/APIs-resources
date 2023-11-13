@@ -3,7 +3,7 @@
 - [Learning resources](#global)
 - [Certifications](#certifications)
 - [Misc](#misc)
-- [FinTech APIs](#fintech)
+- [FinTech APIs](#fintech-apis)
 - [SMS/USSD APIs](#sms)
 - [AI APIs](#ai)
 - <kbd>more to be added</kbd>
