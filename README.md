@@ -17,6 +17,8 @@
 - # Fintech APIs
 - [Mpesa Apis](https://developer.safaricom.co.ke/)
 
+- [Stripe ](https://stripe.com/docs)
+
 - # SMS/USSD APIs
   - ## SMS
    - [Africastalking Messaging](https://africastalking.com/sms)
