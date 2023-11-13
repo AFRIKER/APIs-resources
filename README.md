@@ -7,3 +7,6 @@
 - [SMS/USSD APIs](#sms)
 - [AI APIs](#ai)
 - <kbd>more to be added</kbd>
+
+- # Learning resources
+- 
