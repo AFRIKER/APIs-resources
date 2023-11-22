@@ -14,7 +14,7 @@
 - [Misc](#misc)
 - [FinTech APIs](#fintech-apis)
 - [SMS/USSD APIs](#sms)
-- [AI APIs](#ai)
+- [AI APIs](#ai-apis)
 - <kbd>more to be added</kbd>
 
 - # Learning resources
