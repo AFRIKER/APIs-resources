@@ -82,7 +82,7 @@
 
 - # Hosting
    - ### Back-end Hosting
- 
+    - [Fly.io](https://fly.io/docs/)
    - ### Front-End Hosting
 
 - # Misc
