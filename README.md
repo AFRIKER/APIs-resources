@@ -85,7 +85,7 @@
     - [Fly.io - Has free tier](https://fly.io/docs/)
     - [Vercel - Freemium ](https://vercel.com/)
     - [Heroku - Paid](https://www.heroku.com/)
- 
+    - [Fly.io - Has free tier](https://fly.io/docs/)
    - ### Front-End Hosting
     - [Netlify](https://www.netlify.com/)
     - 
