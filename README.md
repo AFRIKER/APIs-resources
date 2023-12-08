@@ -32,7 +32,8 @@
 - 
    # Global
 -  [Stripe ](https://stripe.com/docs)
-- 
+-  [Paypal Dev](https://developer.paypal.com/home)
+-  
 
 - # SMS/USSD APIs
   - ## SMS
