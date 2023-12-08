@@ -25,20 +25,19 @@
  
 - # Fintech APIs
    ## Local APIs for Payments
-- [Mpesa Apis](https://developer.safaricom.co.ke/)
-- [Airtel](https://developers.airtel.africa/home)
-- [PesaPal](https://developer.pesapal.com/)
-- [Interswitch](https://developer.interswitchgroup.com/)
-- [Ipay](https://www.ipayafrica.com/solutions/Affiliates-Developers/Developers)
-- [Cellulant - Tingg](https://docs.tingg.africa/)
-- 
-- 
+   - [Mpesa Apis](https://developer.safaricom.co.ke/)
+   - [Airtel](https://developers.airtel.africa/home)
+   - [PesaPal](https://developer.pesapal.com/)
+   - [Interswitch](https://developer.interswitchgroup.com/)
+   - [Ipay](https://www.ipayafrica.com/solutions/Affiliates-Developers/Developers)
+   - [Cellulant - Tingg](https://docs.tingg.africa/)
+
    ## Global 
--  [Stripe ](https://stripe.com/docs)
--  [Paypal Dev](https://developer.paypal.com/home)
--  [Mastercard](https://developer.mastercard.com/apis)
--  [Nala - Rafiki API](https://www.rafiki-api.com/)
--  
+  -  [Stripe ](https://stripe.com/docs)
+  -  [Paypal Dev](https://developer.paypal.com/home)
+  -  [Mastercard](https://developer.mastercard.com/apis)
+  -  [Nala - Rafiki API](https://www.rafiki-api.com/)
+  -  
 
 - # SMS/USSD APIs
   - ## SMS
@@ -47,6 +46,12 @@
   - ## USSD
    - [Africastalking USSD ](https://africastalking.com/ussd)
 - <kbd>more to be added</kbd>
+
+- # Verification
+  - [YouVerify]( )
+  - [SmileID](https://docs.usesmileid.com/getting-started/signing-up)
+
+- 
 
 - # AI APIs
  - ## LLMs
