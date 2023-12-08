@@ -2,10 +2,7 @@
   API Resources, Find the docs or link that you need to use here.
 </p>
 
-<p align="center">
-<a href="https://github.com/AFRIKER/APIs-resources/stargazers"><img src="https://img.shields.io/github/stars/afiker/apis-resources" alt="Github Stars"></a>
-</a>
-</p>
+
 
 # APIs-resources [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
@@ -24,9 +21,18 @@
  
  
 - # Fintech APIs
+   # Local APIs for Payments
 - [Mpesa Apis](https://developer.safaricom.co.ke/)
-
-- [Stripe ](https://stripe.com/docs)
+- [Airtel](https://developers.airtel.africa/home)
+- [PesaPal](https://developer.pesapal.com/)
+- [Interswitch](https://developer.interswitchgroup.com/)
+- [Ipay](https://www.ipayafrica.com/solutions/Affiliates-Developers/Developers)
+- [Cellulant - Tingg](https://docs.tingg.africa/)
+- 
+- 
+   # Global
+-  [Stripe ](https://stripe.com/docs)
+- 
 
 - # SMS/USSD APIs
   - ## SMS
