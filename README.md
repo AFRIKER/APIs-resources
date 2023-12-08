@@ -11,6 +11,9 @@
 - [Misc](#misc)
 - [FinTech APIs](#fintech-apis)
 - [SMS/USSD APIs](#sms)
+- [Verification](#Verification)
+- [Bank](#banks)
+- [Blockchain](#blockchain)
 - [AI APIs](#ai-apis)
 - <kbd>more to be added</kbd>
 
