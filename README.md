@@ -21,7 +21,7 @@
  
  
 - # Fintech APIs
-   # Local APIs for Payments
+   ## Local APIs for Payments
 - [Mpesa Apis](https://developer.safaricom.co.ke/)
 - [Airtel](https://developers.airtel.africa/home)
 - [PesaPal](https://developer.pesapal.com/)
@@ -30,7 +30,7 @@
 - [Cellulant - Tingg](https://docs.tingg.africa/)
 - 
 - 
-   # Global 
+   ## Global 
 -  [Stripe ](https://stripe.com/docs)
 -  [Paypal Dev](https://developer.paypal.com/home)
 -  [Mastercard](https://developer.mastercard.com/apis)
