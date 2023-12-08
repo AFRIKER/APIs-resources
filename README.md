@@ -30,9 +30,11 @@
 - [Cellulant - Tingg](https://docs.tingg.africa/)
 - 
 - 
-   # Global
+   # Global 
 -  [Stripe ](https://stripe.com/docs)
 -  [Paypal Dev](https://developer.paypal.com/home)
+-  [Mastercard](https://developer.mastercard.com/apis)
+-  [Nala - Rafiki API](https://www.rafiki-api.com/)
 -  
 
 - # SMS/USSD APIs
@@ -49,4 +51,5 @@
 
 - <kbd>more to be added</kbd>
 
-- # Misc 
+- # Misc
+- [KPLC]
