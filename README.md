@@ -18,6 +18,9 @@
 - <kbd>more to be added</kbd>
 
 - # Learning resources
+- [API Academy](https://apiacademy.co/)
+- [Postman-Academy](https://academy.postman.com/)
+- 
    
 
 - # Certifications
@@ -51,11 +54,12 @@
   - [YouVerify]( )
   - [SmileID](https://docs.usesmileid.com/getting-started/signing-up)
 
-- 
 
 - # AI APIs
- - ## LLMs
-  - [ OpenAI ](https://openai.com/product#made-for-developers)
+  - ## LLMs
+   - [ OpenAI ](https://openai.com/product#made-for-developers)
+   - [Cohere](https://docs.cohere.com/docs)
+   - 
 
 - <kbd>more to be added</kbd>
 
