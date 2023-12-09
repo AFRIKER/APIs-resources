@@ -18,9 +18,8 @@
 - <kbd>more to be added</kbd>
 
 - # Learning resources
-- [API Academy](https://apiacademy.co/)
-- [Postman-Academy](https://academy.postman.com/)
-- 
+  - [API Academy](https://apiacademy.co/)
+  - [Postman-Academy](https://academy.postman.com/)
    
 
 - # Certifications
