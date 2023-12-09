@@ -1,4 +1,4 @@
-<p align="center">
+# <p align="center">
   API Resources, Find the docs or link that you need to use here.
 </p>
 
@@ -27,7 +27,7 @@
  
  
 - # Fintech APIs
-   ## Local APIs for Payments
+   ### Local APIs for Payments
    - [Mpesa Apis](https://developer.safaricom.co.ke/)
    - [Airtel](https://developers.airtel.africa/home)
    - [PesaPal](https://developer.pesapal.com/)
@@ -35,7 +35,7 @@
    - [Ipay](https://www.ipayafrica.com/solutions/Affiliates-Developers/Developers)
    - [Cellulant - Tingg](https://docs.tingg.africa/)
 
-   ## Global 
+   ### Global 
   -  [Stripe ](https://stripe.com/docs)
   -  [Paypal Dev](https://developer.paypal.com/home)
   -  [Mastercard](https://developer.mastercard.com/apis)
@@ -43,10 +43,10 @@
   -  
 
 - # SMS/USSD APIs
-  - ## SMS
+  - ### SMS
    - [Africastalking Messaging](https://africastalking.com/sms)
  
-  - ## USSD
+  - ### USSD
    - [Africastalking USSD ](https://africastalking.com/ussd)
 - <kbd>more to be added</kbd>
 
@@ -56,7 +56,7 @@
 
 
 - # AI APIs
-  - ## LLMs
+  - ### LLMs
    - [ OpenAI ](https://openai.com/product#made-for-developers)
    - [Cohere](https://docs.cohere.com/docs)
    - 
