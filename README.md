@@ -23,6 +23,7 @@
    
 
 - # Certifications
+  - [API Academy Certification](https://apiacademy.co/api-certification/)
  
  
 - # Fintech APIs
