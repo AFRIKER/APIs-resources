@@ -1,4 +1,4 @@
-# <p align="center">
+<p align="center">
   API Resources, Find the docs or link that you need to use here.
 </p>
 
