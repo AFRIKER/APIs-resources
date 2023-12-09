@@ -34,6 +34,7 @@
    - [Interswitch](https://developer.interswitchgroup.com/)
    - [Ipay](https://www.ipayafrica.com/solutions/Affiliates-Developers/Developers)
    - [Cellulant - Tingg](https://docs.tingg.africa/)
+   - [Pezesha](https://pezesha.com/2.0-showcase)
 
    ### Global 
   -  [Stripe ](https://stripe.com/docs)
@@ -64,4 +65,7 @@
 - <kbd>more to be added</kbd>
 
 - # Misc
+-  #### Emergency Services
+-   - [Rescue co - Emergency Services](https://www.rescue.co/)
 - [KPLC]
+- 
