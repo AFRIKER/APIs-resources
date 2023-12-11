@@ -57,16 +57,16 @@
 
 - # Banks
   -  ### Local
-  -  [cooperative]()
-  -  [Equity]()
+  -  [cooperative](https://developer.co-opbank.co.ke/devportal/apis)
+  -  [Equity - JengaAPI](https://www.jengaapi.io/)
  
     
   -  ### Global
-  -  [JP Morgan]()
+  -  [JP Morgan](https://developer.jpmorgan.com/)
  
 - # Blockchain
    - ### Local
-   - [UTU Technologies]()
+   - [UTU Technologies](https://utu.io/developers/)
  
 
 - # AI APIs
@@ -79,6 +79,6 @@
 
 - # Misc
 -  #### Emergency Services
--   - [Rescue co - Emergency Services](https://www.rescue.co/)
-- [KPLC]
-- 
+    - [Rescue co - Emergency Services](https://www.rescue.co/)
+    - [KPLC]()
+ 
