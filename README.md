@@ -55,6 +55,19 @@
   - [YouVerify]( )
   - [SmileID](https://docs.usesmileid.com/getting-started/signing-up)
 
+- # Banks
+  -  ### Local
+  -  [cooperative]()
+  -  [Equity]()
+ 
+    
+  -  ### Global
+  -  [JP Morgan]()
+ 
+- # Blockchain
+   - ### Local
+   - [UTU Technologies]()
+ 
 
 - # AI APIs
   - ### LLMs
