@@ -8,13 +8,14 @@
 
 - [Learning resources](#global)
 - [Certifications](#certifications)
-- [Misc](#misc)
 - [FinTech APIs](#fintech-apis)
 - [SMS/USSD APIs](#sms)
 - [Verification](#Verification)
 - [Bank](#banks)
 - [Blockchain](#blockchain)
 - [AI APIs](#ai-apis)
+- [Hosting Services](#Hosting)
+- [Misc](#misc)
 - <kbd>more to be added</kbd>
 
 - # Learning resources
@@ -79,8 +80,14 @@
 
 - <kbd>more to be added</kbd>
 
+- # Hosting
+   - ### Back-end Hosting
+ 
+   - ### Front-End Hosting
+
 - # Misc
+    - [KPLC-not yet found the link]()
 -  #### Emergency Services
     - [Rescue co - Emergency Services](https://www.rescue.co/)
-    - [KPLC]()
+    
  
