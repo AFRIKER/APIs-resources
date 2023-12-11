@@ -46,9 +46,11 @@
 - # SMS/USSD APIs
   - ### SMS
    - [Africastalking Messaging](https://africastalking.com/sms)
+   - [Wasiliana SMS](https://wasiliana.com/sms)
  
   - ### USSD
    - [Africastalking USSD ](https://africastalking.com/ussd)
+   - [Wasiliana USSD ](https://wasiliana.com/ussd)
 - <kbd>more to be added</kbd>
 
 - # Verification
