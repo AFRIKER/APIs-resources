@@ -82,8 +82,12 @@
 
 - # Hosting
    - ### Back-end Hosting
+    - [Vercel - Freemium ](https://vercel.com/)
+    - [Heroku - Paid](https://www.heroku.com/)
  
    - ### Front-End Hosting
+    - [Netlify](https://www.netlify.com/)
+    - 
 
 - # Misc
     - [KPLC-not yet found the link]()
