@@ -82,8 +82,13 @@
 
 - # Hosting
    - ### Back-end Hosting
-    - [Fly.io](https://fly.io/docs/)
+    - [Fly.io - Has free tier](https://fly.io/docs/)
+    - [Vercel - Freemium ](https://vercel.com/)
+    - [Heroku - Paid](https://www.heroku.com/)
+ 
    - ### Front-End Hosting
+    - [Netlify](https://www.netlify.com/)
+    - 
 
 - # Misc
     - [KPLC-not yet found the link]()
