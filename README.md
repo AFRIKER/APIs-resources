@@ -82,10 +82,15 @@
 
 - # Hosting
    - ### Back-end Hosting
+ New-commits
     - [Fly.io - Has free tier](https://fly.io/docs/)
     - [Vercel - Freemium ](https://vercel.com/)
     - [Heroku - Paid](https://www.heroku.com/)
     - [Fly.io - Has free tier](https://fly.io/docs/)
+    - [Vercel - Freemium ](https://vercel.com/)
+    - [Heroku - Paid](https://www.heroku.com/)
+ 
+ main
    - ### Front-End Hosting
     - [Netlify](https://www.netlify.com/)
     - 
