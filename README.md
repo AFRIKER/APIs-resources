@@ -84,13 +84,12 @@
    - ### Back-end Hosting
     - [Fly.io - Has free tier](https://fly.io/docs/)
     - [Vercel - Freemium ](https://vercel.com/)
+    - [Render- freemium](https://render.com/)
     - [Heroku - Paid](https://www.heroku.com/)
-    - [Fly.io - Has free tier](https://fly.io/docs/)
-    - [Vercel - Freemium ](https://vercel.com/)
-    - [Heroku - Paid](https://www.heroku.com/)
+    - [Railway - Paid](https://railway.app/)
  
    - ### Front-End Hosting
-    - [Netlify](https://www.netlify.com/)
+    - [Netlify - freemium](https://www.netlify.com/)
     - 
 
 - # Misc
