@@ -96,5 +96,9 @@
     - [KPLC-not yet found the link]()
 -  #### Emergency Services
     - [Rescue co - Emergency Services](https://www.rescue.co/)
+- ### Games
+    - [Ji-Xpress Game Builder - ](https://github.com/Ji-Xpress/ji-xpress)
+      <p>Ji-Xpress is a 2D Custom Game Builder developed on Godot using GDScript and available as Open Source on GitHub. It will allow Game Developers to create Game Environments in which they can expose a Game Builder interface for their Game Players using the Godot Engine.
+</p> 
     
  
