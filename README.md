@@ -36,10 +36,16 @@
  
  
 - # Fintech APIs
-   ### Local APIs for Payments
-   - [Mpesa Apis](https://developer.safaricom.co.ke/)
-   - [Airtel](https://developers.airtel.africa/home)
-   - [PesaPal](https://developer.pesapal.com/)
+   ### Local(Kenya) APIs for Payments
+| Fintech APIS       | Description                                                                                     | Link |
+|---------------------|-------------------------------------------------------------------------------------------------|------|
+| M-pesa Apis (Daraja) |  Safaricom Developers Portal: Plug and Play into possibilities with Safaricom APIs                | [Link](https://developer.safaricom.co.ke/) |
+| Airtel              |                                                                                                 | [Link](https://developers.airtel.africa/home) |
+| PesaPal             |                                                                            | [Link](https://developer.pesapal.com/) |
+   
+   - 
+   - 
+   - 
    - [Interswitch](https://developer.interswitchgroup.com/)
    - [Ipay](https://www.ipayafrica.com/solutions/Affiliates-Developers/Developers)
    - [Cellulant - Tingg](https://docs.tingg.africa/)
