@@ -21,15 +21,18 @@
 - [Misc](#misc)
 - <kbd>more to be added</kbd>
 
+  # Learning Resources
 | Learning resources  | Description                                                                                     | Link |
 |---------------------|-------------------------------------------------------------------------------------------------|------|
-| Open API Academy    | Learn how to start your first API journey with OpenAPIHub.                                      | [Link](https://apiacademy.co/). |
+| Open API Academy    | Learn how to start your first API journey with OpenAPIHub.                                      | [Link](https://apiacademy.co/) |
 |  Postman-Academy    | Fuel your Postman mastery: Ignite creativity, choose your method and start learning now!        | [Link](https://academy.postman.com/) |
   
    
 
-- # Certifications
-  - [API Academy Certification](https://apiacademy.co/api-certification/)
+   # Certifications
+| Certification  | Description                                                                                     | Link |
+|---------------------|-------------------------------------------------------------------------------------------------|------|
+| Student Expert certification |  Master basics of APIs and interacting with them using Postman        | [Link](https://academy.postman.com/postman-api-fundamentals-student-expert-certification-1) |
  
  
 - # Fintech APIs
