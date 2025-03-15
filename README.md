@@ -21,9 +21,11 @@
 - [Misc](#misc)
 - <kbd>more to be added</kbd>
 
-- # Learning resources
-  - [API Academy](https://apiacademy.co/)
-  - [Postman-Academy](https://academy.postman.com/)
+| Learning resources  | Description                                                                                     | Link |
+|---------------------|-------------------------------------------------------------------------------------------------|------|
+| Open API Academy    | Learn how to start your first API journey with OpenAPIHub.                                      | [Link](https://apiacademy.co/). |
+|  Postman-Academy    | Fuel your Postman mastery: Ignite creativity, choose your method and start learning now!        | [Link](https://academy.postman.com/) |
+  
    
 
 - # Certifications
