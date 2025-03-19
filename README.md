@@ -1,5 +1,5 @@
 <p align="center">
-  API Resources, Find the docs or link that you need to use here.
+  API Resources, Find the docs or link you need to use here.
 </p>
 
 
@@ -83,42 +83,61 @@
 
 - # Banks
   -  ### Local
-  -  [cooperative](https://developer.co-opbank.co.ke/devportal/apis)
-  -  [Equity - JengaAPI](https://www.jengaapi.io/)
+  |  Banks     | Description                                                                             | Link |
+  |-----------|-------------------------------------------------------------------------------------------------|------|
+  | Cooperative Bank |  Simple APIs for ready integrations to your apps & system              | [Link](https://developer.co-opbank.co.ke/devportal/apis) |
+  | Equity Bank - JengaAPI |  Jenga is engineered to create simple APIs that perform multiple complex functions. | [Link](https://www.jengaapi.io/) |
  
     
   -  ### Global
-  -  [JP Morgan](https://developer.jpmorgan.com/)
+  |  Banks     | Description                                                                                    | Link |
+  |-----------|-------------------------------------------------------------------------------------------------|------|
+  | JP Morgan Bank |   Accelerate the creation of your products and services                 | [Link](https://developer.jpmorgan.com/) |
  
 - # Blockchain
    - ### Local
-   - [UTU Technologies](https://utu.io/developers/)
+  |  Blockchain     | Description                                                                               | Link |
+  |-----------|-------------------------------------------------------------------------------------------------|------|
+  | UTU Technologies |  Grow Your DApp With Increased Trust                      | [Link](https://utu.io/developers/) |
  
 
 - # AI APIs
   - ### LLMs
-   - [ OpenAI ](https://openai.com/product#made-for-developers)
-   - [Cohere](https://docs.cohere.com/docs)
-   - 
+  |  LLMs     | Description                                                                                     | Link |
+  |-----------|-------------------------------------------------------------------------------------------------|------|
+  | OpenAI API | Build and scale AI experiences powered by industry-leading models and tools.          | [Link](https://openai.com/product#made-for-developers) |
+  | Cohere     |  Shape the future of business with Cohere                           | [Link](https://docs.cohere.com/docs) |
+  
 
 - <kbd>more to be added</kbd>
 
 - # Hosting
    - ### Back-end Hosting
-    - [Fly.io - Has free tier](https://fly.io/docs/)
-    - [Vercel - Freemium ](https://vercel.com/)
-    - [Render- freemium](https://render.com/)
-    - [Heroku - Paid](https://www.heroku.com/)
-    - [Railway - Paid](https://railway.app/)
+  |  Hosting     | Description                                                                                  | Link |
+  |-----------|-------------------------------------------------------------------------------------------------|------|
+  | Fly.io     |     A Public Cloud Built For Developers Who Ship      | [Link](https://fly.io/docs/) |
+  | Vercel - Freemium | Vercel provides the developer tools and cloud infrastructure to build, scale, and secure a faster, more personalized web.  |[Link](https://vercel.com/) |
+  | Render- freemium |  Build, deploy, and scale your apps with unparalleled ease – from your first user to your billionth     | [Link](https://render.com/) |
+  | Heroku - Paid  | The Cloud Application Platform For Deploying, Managing, and Scaling Apps | [Link](https://www.heroku.com/) |
+  | Railway - Paid | Railway simplifies your infrastructure stack from servers to observability with a single, scalable, easy-to-use platform. | [Link](https://railway.app/) |
  
    - ### Front-End Hosting
-    - [Netlify - freemium](https://www.netlify.com/)
+  |  Hosting     | Description                                                                                  | Link |
+  |-----------|-------------------------------------------------------------------------------------------------|------|
+  | Netlify = freemium | Deploy any modern frontend stack, from marketing sites to AI apps.        |  [Link](https://www.netlify.com/) |
     - 
 
 - # Misc
-    - [KPLC-not yet found the link]()
+  |  Emergency Services     | Description                                                                       | Link |
+  |-----------|-------------------------------------------------------------------------------------------------|------|
+  | KPLC |   not yet found the link   | [Link](https://www.kplc.co.ke/online-services) |
+      
 -  #### Emergency Services
-    - [Rescue co - Emergency Services](https://www.rescue.co/)
+  |  Emergency Services     | Description                                                                       | Link |
+  |-----------|-------------------------------------------------------------------------------------------------|------|
+  | Rescue co - Emergency Services |       Leading emergency rescue provider in East Africa.            | [Link](https://www.rescue.co/) |
+
+  
 - ### Games
     - [Ji-Xpress Game Builder - ](https://github.com/Ji-Xpress/ji-xpress)
       <p>Ji-Xpress is a 2D Custom Game Builder developed on Godot using GDScript and available as Open Source on GitHub. It will allow Game Developers to create Game Environments in which they can expose a Game Builder interface for their Game Players using the Godot Engine.
