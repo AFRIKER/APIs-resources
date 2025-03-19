@@ -13,15 +13,16 @@
 - [Certifications](#certifications)
 - [FinTech APIs](#fintech-apis)
 - [SMS/USSD APIs](#sms)
-- [Verification](#Verification)
+- [Verification](#verification)
 - [Bank](#banks)
 - [Blockchain](#blockchain)
 - [AI APIs](#ai-apis)
-- [Hosting Services](#Hosting)
+- [Hosting Services](#hosting)
 - [Misc](#misc)
 - <kbd>more to be added</kbd>
 
-  # Learning Resources
+# Learning Resources
+
 | Learning resources  | Description                                                                                     | Link |
 |---------------------|-------------------------------------------------------------------------------------------------|------|
 | Open API Academy    | Learn how to start your first API journey with OpenAPIHub.                                      | [Link](https://apiacademy.co/) |
@@ -29,7 +30,8 @@
   
    
 
-   # Certifications
+# Certifications
+
 | Certification       | Description                                                                                     | Link |
 |---------------------|-------------------------------------------------------------------------------------------------|------|
 | Student Expert certification |  Master basics of APIs and interacting with them using Postman        | [Link](https://academy.postman.com/postman-api-fundamentals-student-expert-certification-1) |
@@ -75,6 +77,7 @@
 - <kbd>more to be added</kbd>
 
 - # Verification
+  
   |  Verification     | Description                                                                             | Link |
   |-----------|-------------------------------------------------------------------------------------------------|------|
   | SmileID | Smile ID is Africa’s leading digital identity verification, fraud detection, anti-money laundering, and KYC compliance solution for businesses scaling across the continent.     |  [Link](https://docs.usesmileid.com/getting-started/signing-up) |
@@ -112,6 +115,7 @@
 - <kbd>more to be added</kbd>
 
 - # Hosting
+  
    - ### Back-end Hosting
   |  Hosting     | Description                                                                                  | Link |
   |-----------|-------------------------------------------------------------------------------------------------|------|
@@ -128,6 +132,7 @@
     - 
 
 - # Misc
+  
   |  Emergency Services     | Description                                                                       | Link |
   |-----------|-------------------------------------------------------------------------------------------------|------|
   | KPLC |   not yet found the link   | [Link](https://www.kplc.co.ke/online-services) |
