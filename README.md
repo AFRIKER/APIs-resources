@@ -149,3 +149,8 @@
 </p> 
     
  
+- ### Daily experience inspiration
+  | API | Description | Link |
+  |---|---|---|
+  | Bucketlist Dream of the Day | Free keyless daily experience, image and source URL; Dutch by default | [OpenAPI](https://bucketlist.nl/brand/droom-van-de-dag.openapi.json) |
+
